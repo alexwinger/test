@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <issues>
+  <issue filename="comments.docx" cidx="0" author="Alejandro Lopez" initials="AL" status="closed">1</issue>
+  <issue filename="comments.docx" cidx="1" author="Alejandro Lopez" initials="AL" status="closed">1</issue>
+  <issue filename="comments.docx" cidx="2" author="Alejandro Lopez" initials="AL" status="closed">1</issue>
+  <issue filename="comments.docx" cidx="3" author="Alejandro Lopez" initials="AL" status="closed">1</issue>
+  <issue filename="comments.docx" cidx="4" author="Alejandro Lopez" initials="AL" status="closed">1</issue>
+  <issue filename="comments.docx" cidx="5" author="Alejandro Lopez" initials="AL" status="closed">1</issue>
+  <issue filename="comments.docx" cidx="6" author="Alejandro Lopez" initials="AL" status="closed">1</issue>
+  <issue filename="comments.docx" cidx="16" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="comments.docx" cidx="17" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="comments.docx" cidx="21" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="9" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="11" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="13" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="19" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="21" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="24" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="27" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="28" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="30" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="32" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="35" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="36" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="38" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/visionDelphiV2xCanReflash v4.docx" cidx="8" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/visionDelphiV2xCanReflash v4.docx" cidx="9" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/dextra documents/Design/visionDelphiV2xCanReflash v4.docx" cidx="12" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/visionDelphiV2xCanReflash v4.docx" cidx="8" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/visionDelphiV2xCanReflash v4.docx" cidx="9" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/visionDelphiV2xCanReflash v4.docx" cidx="12" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="9" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="11" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="13" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="19" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="21" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="24" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="27" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="28" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="30" author="Leo Palacios" initials="LP" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="32" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="35" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="36" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/documents/delphi/Dextra/Design/Delphi - CAN Reflash V2X - System Architecture.docx" cidx="38" author="dextra" initials="d" status="closed">1</issue>
+  <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="8" author="Alex Blanca" initials="AB" status="closed">1</issue>
+  <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="11" author="Alex Blanca" initials="AB" status="closed">1</issue>
+  <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="12" author="Alex Blanca" initials="AB" status="closed">1</issue>
+  <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="13" author="Alex Blanca" initials="AB" status="closed">1</issue>
+  <issue filename="office/msword.docx" cidx="0" author="Unknown Author" initials="" status="closed">1</issue>
+  <issue filename="office/msword.docx" cidx="1" author="Unknown Author" initials="" status="closed">1</issue>
+  <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="8" author="Alex Blanca" initials="AB" status="closed">1</issue>
+  <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="11" author="Alex Blanca" initials="AB" status="closed">1</issue>
+  <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="12" author="Alex Blanca" initials="AB" status="closed">1</issue>
+  <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="13" author="Alex Blanca" initials="AB" status="closed">1</issue>
   <issue filename="comments.docx" cidx="0" author="Alejandro Lopez" initials="AL" status="closed"/>
   <issue filename="comments.docx" cidx="1" author="Alejandro Lopez" initials="AL" status="closed">1</issue>
   <issue filename="comments.docx" cidx="2" author="Alejandro Lopez" initials="AL" status="closed">1</issue>
@@ -48,10 +100,6 @@
   <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="13" author="Alex Blanca" initials="AB" status="closed">1</issue>
   <issue filename="office/msword.docx" cidx="0" author="Unknown Author" initials="" status="closed">1</issue>
   <issue filename="office/msword.docx" cidx="1" author="Unknown Author" initials="" status="closed">1</issue>
-  <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="8" author="Alex Blanca" initials="AB" status="closed"/>
-  <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="11" author="Alex Blanca" initials="AB" status="closed"/>
-  <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="12" author="Alex Blanca" initials="AB" status="closed"/>
-  <issue filename="dextra drive/Procesos Ingeniería/Operación/Ingeniería/RD_REQM/6 Ejemplos/ClienteEjemplo_ProyectoEjemplo_CU001_Movil_Consulta_EntidadEjemplo.docx" cidx="13" author="Alex Blanca" initials="AB" status="closed">1</issue>
   <issue filename="comments.docx" cidx="0" author="Alejandro Lopez" initials="AL" status="open">alopezh: This file doesn’t work comment 1</issue>
   <issue filename="comments.docx" cidx="1" author="Alejandro Lopez" initials="AL" status="open">This is subcomment 1.1</issue>
   <issue filename="comments.docx" cidx="2" author="Alejandro Lopez" initials="AL" status="open">This is subcomment 1.2</issue>
