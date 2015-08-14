@@ -1,2 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<documents/>
+<documents>
+  <document filename="tmp_doc_repo/design/technical_design/Delphi - V2X CAN Reflash - System Architecture v3.docx">
+    <open>3</open>
+    <closed>48</closed>
+  </document>
+  <document filename="tmp_doc_repo/analysis/visionDelphiV2xCanReflash v4.1.docx">
+    <open>9</open>
+    <closed>48</closed>
+  </document>
+  <document filename="tmp_doc_repo/design/technical_design/Delphi - V2XCANReflash - SystemArchitecture (v4).docx">
+    <open>3</open>
+    <closed>48</closed>
+  </document>
+  <document filename="tmp_doc_repo/How to create a Bundle through DPS.docx">
+    <open>0</open>
+    <closed>48</closed>
+  </document>
+  <document filename="tmp_doc_repo/Entrega Dic 1/Delphi - V2xCANReflash - Vision (v4.2).docx">
+    <open>6</open>
+    <closed>48</closed>
+  </document>
+  <document filename="tmp_doc_repo/design/technical_design/Delphi - V2xCANReflash - Vision (v4.2).docx">
+    <open>3</open>
+    <closed>48</closed>
+  </document>
+  <document filename="tmp_doc_repo/Entrega Dic 1/Delphi - V2XCANReflash - SystemArchitecture (v4).docx">
+    <open>6</open>
+    <closed>48</closed>
+  </document>
+</documents>
