@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<issues/>
+<issues>
+  <issue filename="tmp_doc_repo/docs/doquis.docx" cidx="0" author="Unknown Author" initials="" date="2015-08-17T11:36:02Z" status="open" user="" type="">Este es el comentario solo</issue>
+  <issue filename="tmp_doc_repo/docs/doquis.docx" cidx="1" author="Unknown Author" initials="" date="2015-08-17T11:36:23Z" status="open" user="Usuario" type="">Este es un comentario con un usuario nada mas</issue>
+  <issue filename="tmp_doc_repo/docs/doquis.docx" cidx="2" author="Unknown Author" initials="" date="2015-08-17T11:36:45Z" status="open" user="tipo" type="Usuario">Este es un comentario con un usuario y el tipo</issue>
+  <issue filename="tmp_doc_repo/docs/doquis.docx" cidx="3" author="Unknown Author" initials="" date="2015-08-17T11:41:58Z" status="open" user="tipo" type="Usuario">comentario con simbolos de : de más :para:saber cómo: se comporta esto:::::jajaja.</issue>
+</issues>
